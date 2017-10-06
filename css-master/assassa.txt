@@ -1,0 +1,30 @@
+FileZillla - FTP klientas, prisijungimui prie serverio
+WinSCP - FTP klientas, prisijungimui prie serverio
+
+deployHQ -susieja Github'a su hostingu
+dewployer - susieja Github'a su hostingu
+
+ignas.galuskinas@codeacademy.lt
+
+Sublime text
+
+1 uzsaivinu faila
+2. perkeliu i githuba
+3. 
+
+
+Command Prompt:
+1. (go to C:/) cd /
+2. cd wamp64/www/hey.lt
+git init
+3. git status
+4. git add .
+5. git commit -m "pirmas comit"
+6. git push
+
+Phpstorm :
+Ctrl+Q - documentation
+Ctrl+space
+
+WMware Workstation Player - virtualios operacines sistemos.
+VestaCP -hostingo sistema
